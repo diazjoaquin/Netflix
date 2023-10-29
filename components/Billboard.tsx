@@ -1,4 +1,4 @@
-import useBillboard from "@/hooks/useBillboar";
+import useBillboard from "@/hooks/useBillboard";
 import React from "react";
 
 import { AiOutlineInfoCircle } from 'react-icons/ai';
